@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+         width="2in" height="2in" 
+        viewBox="0 0 200 200"
+        preserveAspectRatio="xMidYMid">
+<defs>
+<polygon id="pinwheel" points="100,100 100,40 40,30" 
+stroke="black" fill-opacity="0.6"/>
+</defs>
+
+<use xlink:href="#pinwheel" fill="#00ffa2">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="1s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#00ff42">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="1.2s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#1eff00">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="1.4s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#7eff00">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="1.6s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#deff00">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="1.8s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#ffc000">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="2.0s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#ff6000">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="2.2s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#f61100">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="2.4s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#ff0060">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="2.6s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#f700ba">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="2.8s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#de00ff">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="3.0s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#7e00ff">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="3.2s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#1e00ff">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="3.4s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#0042ff">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="3.6s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#00a2ff">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="3.8s" dur="3s" repeatCount="indefinite"/>
+</use>
+<use xlink:href="#pinwheel" fill="#00fcff">
+<animateTransform attributeName="transform" type="rotate"
+from="360, 100, 100" to="0, 100, 100"
+begin="4s" dur="3s" repeatCount="indefinite"/>
+</use>
+
+</svg>
